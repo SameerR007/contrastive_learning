@@ -14,7 +14,7 @@ This repository explores contrastive learning for text retrieval with different 
 ```
 |-- arxiv/        # ArXiv dataset models
 |-- dbpedia14/    # DBpedia14 dataset models
-|-- v1.1/         # MS Macro v2.1 models
+|-- v1.1/         # MS Macro v1.1 models
 |-- v2.1/         # MS Macro v2.1 models
 |-- test/         # Experimental trials
 |-- README.md     # This file
