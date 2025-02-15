@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5052542/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5052542/slurm_script: line 12: module: command not found
+Input Notebook:  0.5hyperbolic.ipynb
+Output Notebook: 0.5hyperbolic_output.ipynb
+Executing:   0%|          | 0/42 [00:00<?, ?cell/s]Executing notebook with kernel: python3
+Executing:   2%|▏         | 1/42 [00:04<03:14,  4.75s/cell]Executing:   5%|▍         | 2/42 [00:09<03:07,  4.69s/cell]Executing:  10%|▉         | 4/42 [00:12<01:45,  2.78s/cell]Executing:  21%|██▏       | 9/42 [00:49<03:18,  6.02s/cell]Executing:  26%|██▌       | 11/42 [00:53<02:30,  4.85s/cell]Executing:  38%|███▊      | 16/42 [00:57<01:12,  2.79s/cell]Executing:  40%|████      | 17/42 [00:58<01:02,  2.51s/cell]Executing:  43%|████▎     | 18/42 [00:58<00:51,  2.16s/cell]Executing:  60%|█████▉    | 25/42 [00:58<00:14,  1.16cell/s]Executing:  69%|██████▉   | 29/42 [00:58<00:08,  1.61cell/s]Executing:  74%|███████▍  | 31/42 [01:00<00:06,  1.64cell/s]Executing:  79%|███████▊  | 33/42 [01:03<00:07,  1.18cell/s]Executing:  83%|████████▎ | 35/42 [01:07<00:07,  1.10s/cell]Executing:  95%|█████████▌| 40/42 [10:50:53<1:58:24, 3552.47s/cell]Executing: 100%|██████████| 42/42 [10:50:57<00:00, 929.93s/cell]   
