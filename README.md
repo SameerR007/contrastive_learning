@@ -1,21 +1,15 @@
 # Enhancing Text Retrieval Pipelines with Contrastive Learning
 
-## Overview
+## Dataset Variants
 
-This repository explores contrastive learning for text retrieval with different architectures:
+- **v1.1** – Models trained and evaluated on **MS MARCO v1.1** (Primary dataset for this study).  
+- **v2.1** – Models trained and evaluated on **MS MARCO v2.1**.  
+- **Arxiv** – Models trained and evaluated on the **ArXiv dataset**.  
+- **DBpedia14** – Models trained and evaluated on the **DBpedia dataset**.  
 
-- **Baseline Model**: Uses CLS token embedding.
-- **Average Model**: Averages all token embeddings.
-- **Hyperbolic Model**: Projects embeddings into hyperbolic space.
-- **Effective Model**: Uses effective resistance as a similarity metric.
+## Evaluation Settings
 
-## Structure
-
-```
-|-- arxiv/        # ArXiv dataset models
-|-- dbpedia14/    # DBpedia14 dataset models
-|-- v1.1/         # MS Macro v1.1 models
-|-- v2.1/         # MS Macro v2.1 models
-|-- test/         # Experimental trials
-|-- README.md     # This file
-```
+- **BEIR** – Models trained on **v1.1 dataset** and evaluated across **13 datasets**.  
+- **Corrupt** – Models trained on **v1.1 dataset** and evaluated **(in-domain & zero-shot) with corrupted queries**.  
+- **Le Cam** – Models trained using **Le Cam divergence** instead of **entailment loss**.  
+- **Test** – Used for **debugging purposes**.  
