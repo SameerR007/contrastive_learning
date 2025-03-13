@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5076370/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5076370/slurm_script: line 12: module: command not found
+Input Notebook:  50le_cam.ipynb
+Output Notebook: 50le_cam_output.ipynb
+Executing:   0%|          | 0/43 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   2%|▏         | 1/43 [00:08<06:03,  8.65s/cell]Executing:   5%|▍         | 2/43 [00:18<06:19,  9.26s/cell]Executing:  16%|█▋        | 7/43 [00:23<01:34,  2.62s/cell]Executing:  21%|██        | 9/43 [00:29<01:33,  2.76s/cell]Executing:  33%|███▎      | 14/43 [00:43<01:19,  2.76s/cell]Executing:  35%|███▍      | 15/43 [00:48<01:24,  3.02s/cell]Executing:  37%|███▋      | 16/43 [00:48<01:11,  2.65s/cell]Executing:  51%|█████     | 22/43 [00:48<00:23,  1.14s/cell]Executing:  56%|█████▌    | 24/43 [00:49<00:17,  1.11cell/s]Executing:  60%|██████    | 26/43 [00:49<00:12,  1.37cell/s]Executing:  70%|██████▉   | 30/43 [00:50<00:07,  1.71cell/s]Executing:  74%|███████▍  | 32/43 [00:54<00:09,  1.14cell/s]Executing:  79%|███████▉  | 34/43 [00:55<00:06,  1.34cell/s]Executing:  95%|█████████▌| 41/43 [1:41:34<15:44, 472.34s/cell]Executing: 100%|██████████| 43/43 [1:41:38<00:00, 141.81s/cell]
