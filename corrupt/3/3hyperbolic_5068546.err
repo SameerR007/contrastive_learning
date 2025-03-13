@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5068546/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5068546/slurm_script: line 12: module: command not found
+Input Notebook:  3hyperbolic.ipynb
+Output Notebook: 3hyperbolic_output.ipynb
+Executing:   0%|          | 0/24 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   4%|▍         | 1/24 [00:02<00:54,  2.36s/cell]Executing:   8%|▊         | 2/24 [00:07<01:23,  3.79s/cell]Executing:  17%|█▋        | 4/24 [00:08<00:33,  1.69s/cell]Executing:  25%|██▌       | 6/24 [00:08<00:16,  1.07cell/s]Executing:  33%|███▎      | 8/24 [00:08<00:11,  1.41cell/s]Executing:  46%|████▌     | 11/24 [00:11<00:10,  1.24cell/s]Executing:  67%|██████▋   | 16/24 [00:13<00:04,  1.72cell/s]Executing:  71%|███████   | 17/24 [00:16<00:05,  1.18cell/s]Executing:  92%|█████████▏| 22/24 [02:09<00:22, 11.34s/cell]Executing: 100%|██████████| 24/24 [02:10<00:00,  5.45s/cell]

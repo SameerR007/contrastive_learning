@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5069785/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5069785/slurm_script: line 12: module: command not found
+Input Notebook:  fever.ipynb
+Output Notebook: fever_output.ipynb
+Executing:   0%|          | 0/36 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   3%|▎         | 1/36 [00:03<02:04,  3.55s/cell]Executing:   8%|▊         | 3/36 [00:32<06:28, 11.79s/cell]Executing:  11%|█         | 4/36 [00:46<06:33, 12.31s/cell]Executing:  14%|█▍        | 5/36 [4:04:28<41:43:20, 4845.19s/cell]Executing:  19%|█▉        | 7/36 [4:04:28<20:03:57, 2490.95s/cell]Executing:  25%|██▌       | 9/36 [4:04:40<18:40:55, 2490.95s/cell]Executing:  28%|██▊       | 10/36 [4:04:46<8:50:06, 1223.34s/cell]Executing:  42%|████▏     | 15/36 [4:05:04<3:14:04, 554.49s/cell] Executing:  47%|████▋     | 17/36 [4:05:05<2:13:42, 422.22s/cell]Executing:  56%|█████▌    | 20/36 [4:08:38<1:20:54, 303.38s/cell]Executing:  61%|██████    | 22/36 [4:08:39<53:35, 229.67s/cell]  Executing:  69%|██████▉   | 25/36 [4:12:09<32:03, 174.83s/cell]Executing:  75%|███████▌  | 27/36 [4:12:11<19:47, 131.98s/cell]Executing:  86%|████████▌ | 31/36 [4:15:41<08:16, 99.24s/cell] Executing: 100%|██████████| 36/36 [4:15:42<00:00, 57.13s/cell]Executing: 100%|██████████| 36/36 [4:15:45<00:00, 426.27s/cell]

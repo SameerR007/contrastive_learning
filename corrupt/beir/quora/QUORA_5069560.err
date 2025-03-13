@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5069560/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5069560/slurm_script: line 12: module: command not found
+Input Notebook:  QUORA.ipynb
+Output Notebook: QUORA_output.ipynb
+Executing:   0%|          | 0/36 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   3%|▎         | 1/36 [00:01<00:59,  1.70s/cell]Executing:   8%|▊         | 3/36 [00:03<00:35,  1.08s/cell]Executing:  11%|█         | 4/36 [00:05<00:47,  1.48s/cell]Executing:  14%|█▍        | 5/36 [16:17<2:46:35, 322.44s/cell]Executing:  28%|██▊       | 10/36 [16:21<41:47, 96.43s/cell]  Executing:  42%|████▏     | 15/36 [16:25<16:58, 48.52s/cell]Executing:  47%|████▋     | 17/36 [16:25<11:57, 37.75s/cell]Executing:  56%|█████▌    | 20/36 [17:04<07:56, 29.80s/cell]Executing:  61%|██████    | 22/36 [17:05<05:19, 22.85s/cell]Executing:  69%|██████▉   | 25/36 [17:43<03:34, 19.50s/cell]Executing:  75%|███████▌  | 27/36 [17:44<02:14, 14.89s/cell]Executing:  86%|████████▌ | 31/36 [18:23<01:03, 12.77s/cell]Executing: 100%|██████████| 36/36 [18:23<00:00,  7.39s/cell]Executing: 100%|██████████| 36/36 [18:26<00:00, 30.75s/cell]

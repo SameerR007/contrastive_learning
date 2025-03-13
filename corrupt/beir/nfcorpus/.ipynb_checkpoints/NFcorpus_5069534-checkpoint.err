@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5069534/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5069534/slurm_script: line 12: module: command not found
+Input Notebook:  NFcorpus.ipynb
+Output Notebook: NFcorpus_output.ipynb
+Executing:   0%|          | 0/36 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   3%|▎         | 1/36 [00:01<00:47,  1.35s/cell]Executing:   8%|▊         | 3/36 [00:01<00:12,  2.54cell/s]Executing:  14%|█▍        | 5/36 [00:05<00:37,  1.22s/cell]Executing:  28%|██▊       | 10/36 [00:08<00:20,  1.29cell/s]Executing:  42%|████▏     | 15/36 [00:11<00:15,  1.37cell/s]Executing:  47%|████▋     | 17/36 [00:11<00:11,  1.66cell/s]Executing:  56%|█████▌    | 20/36 [00:24<00:27,  1.71s/cell]Executing:  61%|██████    | 22/36 [00:24<00:19,  1.36s/cell]Executing:  67%|██████▋   | 24/36 [00:24<00:12,  1.05s/cell]Executing:  69%|██████▉   | 25/36 [00:36<00:28,  2.63s/cell]Executing:  75%|███████▌  | 27/36 [00:36<00:17,  1.94s/cell]Executing:  86%|████████▌ | 31/36 [00:48<00:12,  2.41s/cell]Executing: 100%|██████████| 36/36 [00:48<00:00,  1.33s/cell]Executing: 100%|██████████| 36/36 [00:52<00:00,  1.45s/cell]

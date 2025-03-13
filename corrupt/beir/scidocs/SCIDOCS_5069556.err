@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5069556/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5069556/slurm_script: line 12: module: command not found
+Input Notebook:  SCIDOCS.ipynb
+Output Notebook: SCIDOCS_output.ipynb
+Executing:   0%|          | 0/36 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   3%|▎         | 1/36 [00:01<01:00,  1.73s/cell]Executing:   8%|▊         | 3/36 [00:02<00:27,  1.18cell/s]Executing:  11%|█         | 4/36 [00:05<00:42,  1.32s/cell]Executing:  14%|█▍        | 5/36 [00:09<01:16,  2.48s/cell]Executing:  28%|██▊       | 10/36 [00:13<00:31,  1.20s/cell]Executing:  42%|████▏     | 15/36 [00:16<00:20,  1.02cell/s]Executing:  47%|████▋     | 17/36 [00:17<00:14,  1.27cell/s]Executing:  56%|█████▌    | 20/36 [00:50<01:05,  4.12s/cell]Executing:  61%|██████    | 22/36 [00:50<00:44,  3.20s/cell]Executing:  69%|██████▉   | 25/36 [01:23<01:03,  5.74s/cell]Executing:  75%|███████▌  | 27/36 [01:23<00:39,  4.41s/cell]Executing:  86%|████████▌ | 31/36 [01:55<00:29,  5.89s/cell]Executing: 100%|██████████| 36/36 [01:55<00:00,  3.42s/cell]Executing: 100%|██████████| 36/36 [01:58<00:00,  3.29s/cell]

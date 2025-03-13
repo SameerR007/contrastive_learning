@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5069559/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5069559/slurm_script: line 12: module: command not found
+Input Notebook:  touche2020.ipynb
+Output Notebook: touche2020_output.ipynb
+Executing:   0%|          | 0/36 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   3%|▎         | 1/36 [00:01<01:00,  1.72s/cell]Executing:   8%|▊         | 3/36 [00:05<01:02,  1.90s/cell]Executing:  11%|█         | 4/36 [00:07<01:04,  2.00s/cell]Executing:  14%|█▍        | 5/36 [00:14<01:45,  3.41s/cell]Executing:  28%|██▊       | 10/36 [00:17<00:39,  1.52s/cell]Executing:  42%|████▏     | 15/36 [00:21<00:23,  1.13s/cell]Executing:  47%|████▋     | 17/36 [00:21<00:17,  1.11cell/s]Executing:  56%|█████▌    | 20/36 [00:24<00:14,  1.12cell/s]Executing:  61%|██████    | 22/36 [00:24<00:10,  1.37cell/s]Executing:  69%|██████▉   | 25/36 [00:26<00:07,  1.44cell/s]Executing:  75%|███████▌  | 27/36 [00:26<00:05,  1.75cell/s]Executing:  86%|████████▌ | 31/36 [00:28<00:02,  1.88cell/s]Executing: 100%|██████████| 36/36 [00:32<00:00,  1.10cell/s]

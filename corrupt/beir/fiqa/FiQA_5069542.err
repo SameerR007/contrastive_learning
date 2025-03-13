@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5069542/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5069542/slurm_script: line 12: module: command not found
+Input Notebook:  FiQA.ipynb
+Output Notebook: FiQA_output.ipynb
+Executing:   0%|          | 0/36 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   3%|▎         | 1/36 [00:01<01:03,  1.81s/cell]Executing:   8%|▊         | 3/36 [00:02<00:20,  1.58cell/s]Executing:  11%|█         | 4/36 [00:04<00:39,  1.22s/cell]Executing:  14%|█▍        | 5/36 [00:09<01:19,  2.56s/cell]Executing:  25%|██▌       | 9/36 [00:09<00:24,  1.11cell/s]Executing:  31%|███       | 11/36 [00:13<00:28,  1.14s/cell]Executing:  42%|████▏     | 15/36 [00:16<00:21,  1.04s/cell]Executing:  47%|████▋     | 17/36 [00:17<00:15,  1.20cell/s]Executing:  56%|█████▌    | 20/36 [00:40<00:52,  3.29s/cell]Executing:  61%|██████    | 22/36 [00:41<00:35,  2.51s/cell]Executing:  69%|██████▉   | 25/36 [01:03<00:46,  4.27s/cell]Executing:  75%|███████▌  | 27/36 [01:04<00:29,  3.25s/cell]Executing:  86%|████████▌ | 31/36 [01:26<00:21,  4.25s/cell]Executing:  97%|█████████▋| 35/36 [01:26<00:02,  2.68s/cell]Executing: 100%|██████████| 36/36 [01:29<00:00,  2.49s/cell]
