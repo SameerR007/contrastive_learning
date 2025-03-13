@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5066340/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5066340/slurm_script: line 12: module: command not found
+Input Notebook:  hyperbolic_climate_fever.ipynb
+Output Notebook: hyperbolic_climate_fever_output.ipynb
+Executing:   0%|          | 0/20 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   5%|▌         | 1/20 [00:01<00:33,  1.78s/cell]Executing:  15%|█▌        | 3/20 [00:29<03:03, 10.82s/cell]

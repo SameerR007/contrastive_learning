@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5069296/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5069296/slurm_script: line 12: module: command not found
+Input Notebook:  hyperbolic_DBpedia.ipynb
+Output Notebook: hyperbolic_DBpedia_output.ipynb
+Executing:   0%|          | 0/20 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   5%|▌         | 1/20 [00:06<01:56,  6.13s/cell]Executing:  15%|█▌        | 3/20 [00:29<02:56, 10.41s/cell]Executing:  20%|██        | 4/20 [10:36<57:48, 216.76s/cell]Executing:  40%|████      | 8/20 [10:50<15:01, 75.09s/cell] Executing:  65%|██████▌   | 13/20 [11:24<04:25, 38.00s/cell]Executing:  75%|███████▌  | 15/20 [11:24<02:25, 29.04s/cell]Executing:  95%|█████████▌| 19/20 [11:31<00:18, 18.04s/cell]Executing: 100%|██████████| 20/20 [11:35<00:00, 34.79s/cell]

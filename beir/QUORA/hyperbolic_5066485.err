@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5066485/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5066485/slurm_script: line 12: module: command not found
+Input Notebook:  hyperbolic_QUORA.ipynb
+Output Notebook: hyperbolic_QUORA_output.ipynb
+Executing:   0%|          | 0/20 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   5%|▌         | 1/20 [00:01<00:24,  1.30s/cell]Executing:  15%|█▌        | 3/20 [00:02<00:16,  1.05cell/s]Executing:  20%|██        | 4/20 [13:16<1:13:21, 275.12s/cell]Executing:  40%|████      | 8/20 [13:18<18:33, 92.83s/cell]   Executing:  55%|█████▌    | 11/20 [13:18<08:08, 54.25s/cell]Executing:  65%|██████▌   | 13/20 [13:26<04:39, 39.93s/cell]Executing:  75%|███████▌  | 15/20 [13:26<02:22, 28.45s/cell]Executing:  85%|████████▌ | 17/20 [13:26<01:00, 20.17s/cell]Executing:  95%|█████████▌| 19/20 [14:05<00:19, 19.94s/cell]Executing: 100%|██████████| 20/20 [14:07<00:00, 42.36s/cell]

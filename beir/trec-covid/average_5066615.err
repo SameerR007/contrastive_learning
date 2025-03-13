@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5066615/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5066615/slurm_script: line 12: module: command not found
+Input Notebook:  average_TREC_covid.ipynb
+Output Notebook: average_TREC_covid_output.ipynb
+Executing:   0%|          | 0/20 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   5%|▌         | 1/20 [00:01<00:23,  1.25s/cell]Executing:  15%|█▌        | 3/20 [00:02<00:14,  1.19cell/s]Executing:  20%|██        | 4/20 [00:04<00:17,  1.09s/cell]Executing:  40%|████      | 8/20 [00:06<00:09,  1.31cell/s]Executing:  65%|██████▌   | 13/20 [00:11<00:06,  1.17cell/s]Executing:  75%|███████▌  | 15/20 [00:11<00:03,  1.47cell/s]Executing:  90%|█████████ | 18/20 [00:11<00:00,  2.16cell/s]Executing: 100%|██████████| 20/20 [00:14<00:00,  1.54cell/s]Executing: 100%|██████████| 20/20 [00:15<00:00,  1.28cell/s]

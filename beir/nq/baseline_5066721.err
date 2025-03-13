@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5066721/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5066721/slurm_script: line 12: module: command not found
+Input Notebook:  NQ.ipynb
+Output Notebook: NQ_output.ipynb
+Executing:   0%|          | 0/19 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   5%|▌         | 1/19 [00:02<00:40,  2.22s/cell]Executing:  16%|█▌        | 3/19 [00:15<01:27,  5.45s/cell]Executing:  21%|██        | 4/19 [49:08<4:14:37, 1018.51s/cell]Executing:  32%|███▏      | 6/19 [49:08<1:50:58, 512.19s/cell] Executing:  42%|████▏     | 8/19 [49:14<55:06, 300.62s/cell]  Executing:  68%|██████▊   | 13/19 [49:24<12:13, 122.28s/cell]Executing:  79%|███████▉  | 15/19 [49:24<06:04, 91.19s/cell] Executing:  95%|█████████▍| 18/19 [50:44<01:08, 68.40s/cell]Executing: 100%|██████████| 19/19 [50:47<00:00, 160.39s/cell]

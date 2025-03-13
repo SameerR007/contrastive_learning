@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5066380/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5066380/slurm_script: line 12: module: command not found
+Input Notebook:  average_FEVER.ipynb
+Output Notebook: average_FEVER_output.ipynb
+Executing:   0%|          | 0/20 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   5%|▌         | 1/20 [00:02<00:44,  2.36s/cell]Executing:  15%|█▌        | 3/20 [00:30<03:08, 11.10s/cell]Executing:  20%|██        | 4/20 [3:41:05<20:23:08, 4586.77s/cell]Executing:  35%|███▌      | 7/20 [3:41:05<6:40:15, 1847.33s/cell] Executing:  45%|████▌     | 9/20 [3:41:14<3:36:11, 1179.19s/cell]Executing:  60%|██████    | 12/20 [3:41:14<1:28:28, 663.62s/cell]Executing:  60%|██████    | 12/20 [3:41:30<1:28:28, 663.62s/cell]Executing:  65%|██████▌   | 13/20 [3:41:30<1:04:23, 551.98s/cell]Executing:  75%|███████▌  | 15/20 [3:41:30<30:49, 369.91s/cell]  Executing:  90%|█████████ | 18/20 [3:41:50<12:19, 369.91s/cell]Executing:  95%|█████████▌| 19/20 [3:44:59<03:35, 215.74s/cell]Executing: 100%|██████████| 20/20 [3:45:02<00:00, 675.15s/cell]

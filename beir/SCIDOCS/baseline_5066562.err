@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5066562/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5066562/slurm_script: line 12: module: command not found
+Input Notebook:  SCIDOCS.ipynb
+Output Notebook: SCIDOCS_output.ipynb
+Executing:   0%|          | 0/20 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   5%|▌         | 1/20 [00:02<00:45,  2.39s/cell]Executing:  15%|█▌        | 3/20 [00:03<00:16,  1.01cell/s]Executing:  20%|██        | 4/20 [00:05<00:22,  1.40s/cell]Executing:  45%|████▌     | 9/20 [00:09<00:10,  1.06cell/s]Executing:  70%|███████   | 14/20 [00:20<00:09,  1.57s/cell]Executing:  80%|████████  | 16/20 [00:20<00:04,  1.25s/cell]Executing:  95%|█████████▌| 19/20 [00:54<00:04,  4.46s/cell]Executing: 100%|██████████| 20/20 [00:55<00:00,  2.77s/cell]

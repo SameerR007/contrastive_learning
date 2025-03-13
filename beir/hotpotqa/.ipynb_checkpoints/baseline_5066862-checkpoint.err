@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5066862/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5066862/slurm_script: line 12: module: command not found
+Input Notebook:  HotpotQA.ipynb
+Output Notebook: HotpotQA_output.ipynb
+Executing:   0%|          | 0/19 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   5%|▌         | 1/19 [00:02<00:40,  2.24s/cell]Executing:  16%|█▌        | 3/19 [00:26<02:32,  9.52s/cell]

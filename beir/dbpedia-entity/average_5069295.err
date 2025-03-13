@@ -1,0 +1,6 @@
+/var/lib/slurm-llnl/slurmd/job5069295/slurm_script: line 11: module: command not found
+/var/lib/slurm-llnl/slurmd/job5069295/slurm_script: line 12: module: command not found
+Input Notebook:  average_DBpedia.ipynb
+Output Notebook: average_DBpedia_output.ipynb
+Executing:   0%|          | 0/20 [00:00<?, ?cell/s]Executing notebook with kernel: myenv
+Executing:   5%|▌         | 1/20 [00:06<01:56,  6.13s/cell]Executing:  15%|█▌        | 3/20 [00:29<02:53, 10.21s/cell]Executing:  20%|██        | 4/20 [10:35<57:43, 216.48s/cell]Executing:  40%|████      | 8/20 [10:50<15:02, 75.22s/cell] Executing:  65%|██████▌   | 13/20 [11:24<04:26, 38.02s/cell]Executing:  75%|███████▌  | 15/20 [11:24<02:25, 29.05s/cell]Executing:  85%|████████▌ | 17/20 [11:24<01:05, 21.74s/cell]Executing:  95%|█████████▌| 19/20 [11:31<00:16, 16.85s/cell]Executing: 100%|██████████| 20/20 [11:34<00:00, 34.72s/cell]
