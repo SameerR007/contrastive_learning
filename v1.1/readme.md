@@ -8,5 +8,5 @@
 - **0.9 hyperbolic** - Model with alpha value = 0.9
 
 ### Note:
-Alpha represents the weightage given to entailment loss minimization.
-In effective model, similarity is calculated based on effective resistance.
+1. Alpha represents the weightage given to entailment loss minimization.
+2. In effective model, similarity is calculated based on effective resistance.
