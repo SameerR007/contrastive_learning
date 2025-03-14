@@ -5,5 +5,4 @@
 - **3** - For n=3
 
 ### Note:
-- Alpha represents the weightage given to entailment loss minimization.
 - n represents the number of words that are corrupted in the query.
